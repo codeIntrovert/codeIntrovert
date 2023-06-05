@@ -6,9 +6,6 @@
 <p align="center">
 <a href="https://twitter.com/@hasanIntrovert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hasanIntrovert" height="30" width="40" /></a>
 
-<a href="https://www.linkedin.com//" target="blank">
-
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shadman ali" height="30" width="40" /></a>
 
 
 <table>
