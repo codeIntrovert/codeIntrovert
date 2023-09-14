@@ -1,22 +1,28 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Hasan Imam - Web Developer">
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Hasan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+</h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p>A GenZ coding Enthusiast<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
-<br>
-<p align="center">
-    <h1 align="center">HASAN IMAM 😊</h1>
-</p>
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
-</p>
-<br>
-<p align="center">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=codeIntrovert&color=grey">
-</p>
-<p align="center">
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCKkj-sW42Jj2eS6UlvbEgsA?label=IntrovertCoder)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/hasanIntrovert)
+[![Linkedin: introvertCoder](https://img.shields.io/badge/-introvertcoder-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/introvertcoder/)](https://www.linkedin.com/in/introvertcoder/)
+<img id="preview" src="https://komarev.com/ghpvc/?username=codeIntrovert&color=brightgreen">
 
-<a  align="center" href="https://github.com/codeintrovert"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeintrovert&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
-</p>
-<!---
-codeIntrovert/codeIntrovert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+
+```javascript
+const thai = {
+  pronouns: "he" | "him",
+  code: [Javascript, ReactJs, Sass, Python, Java],
+  tools: [React, Py-Flask, Jinja, Node, Sass, Scss, ],
+  architecture: ["microservices", "event-driven", "Automation"],
+  pipeline:
+    "Making world a better, 1 line of code at a time",
+};
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
