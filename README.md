@@ -13,7 +13,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
-const thai = {
+const Hasan = {
   pronouns: "he" | "him",
   code: [Javascript, ReactJs, Sass, Python, Java],
   tools: [React, Py-Flask, Jinja, Node, Sass, Scss, ],
