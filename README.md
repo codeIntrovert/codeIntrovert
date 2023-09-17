@@ -6,7 +6,7 @@
 </em></p>
 
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCKkj-sW42Jj2eS6UlvbEgsA?label=IntrovertCoder)
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/hasanIntrovert)
+[![Instagram: introvertCoder](https://img.shields.io/badge/-introvertCoder-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/introvertCoder/)](https://www.instagram.com/introvertCoder/)
 [![Linkedin: introvertCoder](https://img.shields.io/badge/-introvertcoder-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/introvertcoder/)](https://www.linkedin.com/in/introvertcoder/)
 <img id="preview" src="https://komarev.com/ghpvc/?username=codeIntrovert&color=brightgreen">
 
