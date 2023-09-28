@@ -16,9 +16,9 @@
 const Hasan = {
   pronouns: "he" | "him",
   code: [Javascript, ReactJs, Sass, Python, Java],
-  tools: [React, Py-Flask, Jinja, Node, Sass, Scss, ],
-  architecture: ["microservices", "event-driven", "Automation"],
-  pipeline:
+  tools: [React, Py-Flask, Jinja, Node, Sass ],
+  pipeLine: ["MERN", "Django", "OpenSource Experience"],
+  lifeAim:
     "Making world a better, 1 line of code at a time",
 };
 ```
