@@ -1,5 +1,5 @@
-<img src="https://i.imgur.com/sR4wvGw" alt="Hasan Imam - Web Developer">
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/a1IG9uh" data-context="false" ><a href="//imgur.com/a/a1IG9uh">github header</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://i.imgur.com/sR4wvGw.png" alt="Hasan Imam - Web Developer">
+
 <h1>😎 Hi, I'm Hasan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
