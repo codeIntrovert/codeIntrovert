@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/codeintrovert/codeintrovert/headeralpha.png" alt="Hasan Imam - Web Developer">
+<img src="https://github.com/codeIntrovert/codeIntrovert/header.svg" alt="Hasan Imam - Web Developer">
 <h1>😎 Hi, I'm Hasan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
