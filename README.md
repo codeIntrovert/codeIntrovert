@@ -17,13 +17,14 @@
 const Hasan = {
   pronouns: "he" | "him",
   code: [Javascript, ReactJs, Sass, Python, Java],
-  tools: [React, Py-Flask, Jinja, Node, Sass ],
+  tools: [React, Py - Flask, Jinja, Node, Sass],
   pipeLine: ["MERN", "Django", "OpenSource Experience"],
-  lifeAim:
-    "Making world a better, 1 line of code at a time",
+  Quote: "Stay Creative, Stay Hungry, Stay Foolish",
 };
 ```
 
+<!-- Netlify Dynamic Cat Image -->
+<img src="https://catpicshsn23.netlify.app" alt="Random Cat Pic" height="100">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---

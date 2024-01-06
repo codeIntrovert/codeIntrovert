@@ -1,0 +1,34 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cat API Fetch</title>
+</head>
+
+<body id="body">
+
+    <script>
+        async function fetchCatImage() {
+            try {
+                const response = await fetch('/.netlify/functions/getRandomCat');
+                const data = await response.json();
+
+                if (response.ok) {
+                    const imageUrl = data.imageUrl;
+                    const catImageContainer = document.getElementById('body');
+                    body.innerHTML = `<img src="${imageUrl}" alt="Cat Image" width=300px; height=300px;>`;
+                } else {
+                    console.error('Failed to fetch cat image:', data.error);
+                }
+            } catch (error) {
+                console.error('Error fetching cat image:', error);
+            }
+        }
+        fetchCatImage();
+    </script>
+</body>
+
+</html>
