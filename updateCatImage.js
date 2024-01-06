@@ -1,5 +1,4 @@
-const fetch = require('node-fetch');
-const fs = require('fs');
+import fetch from 'node-fetch';
 
 async function updateCatImage() {
     try {
@@ -14,7 +13,7 @@ async function updateCatImage() {
             let readmeContent = fs.readFileSync('README.md', 'utf-8');
 
             // Replace the existing image URL with the new one
-            const regex = /<img src=".*?" alt=".*?" width="300" height="300">/;
+            const regex = /<!-- Dynamic Cat Image - DO NOT REMOVE THIS COMMENT -->\s*<img src=".*?" alt=".*?" width="300" height="300">/;
             readmeContent = readmeContent.replace(regex, `<img src="${newImageUrl}" alt="Random Cat Pic" width="300" height="300">`);
 
             // Write the updated content back to the README file
