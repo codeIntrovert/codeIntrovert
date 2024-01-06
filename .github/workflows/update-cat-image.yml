@@ -30,7 +30,8 @@ jobs:
         npm install node-fetch
 
     - name: Fetch new cat image
-      run: node updateCatImage.js
+      node --experimental-modules updateCatImage.mjs
+
 
     - name: Commit and push changes
       run: |
