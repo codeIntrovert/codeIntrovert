@@ -1,7 +1,7 @@
 import fetch from 'node-fetch';
 
 async function updateCatImage() {
-    try {
+
         // Fetch new cat image URL from the API
         const response = await fetch('https://api.thecatapi.com/v1/images/search');
         const data = await response.json();
@@ -20,12 +20,11 @@ async function updateCatImage() {
             fs.writeFileSync('README.md', readmeContent, 'utf-8');
 
             console.log('Cat image updated successfully.');
-        } else {
-            console.error('Failed to fetch cat image:', data.error || 'Unknown error');
         }
-    } catch (error) {
-        console.error('Error updating cat image:', error);
-    }
+        else{
+            console.log("BAD RESPONSE");
+        }
+    
 }
 
 // Call the function to update the cat image
