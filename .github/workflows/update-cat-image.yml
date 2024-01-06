@@ -20,9 +20,9 @@ jobs:
       with:
         node-version: 14
         check-latest: true
-      # Set the environment variable to enable ESM mode
-        env:
-          NODE_OPTIONS: '--experimental-specifier-resolution=node'
+        # Set the environment variable to enable ESM mode
+      env:
+        NODE_OPTIONS: '--experimental-specifier-resolution=node'
 
     - name: Install dependencies
       run: |
