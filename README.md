@@ -23,8 +23,10 @@ const Hasan = {
 };
 ```
 
-<!-- Netlify Dynamic Cat Image -->
-<img src="https://catpicshsn23.netlify.app" alt="Random Cat Pic" height="100">
+<!-- Dynamic Cat Image - DO NOT REMOVE THIS COMMENT -->
+<!-- Placeholder for the cat image. The script will replace this with the actual image. -->
+<img src="https://cdn2.thecatapi.com/images/egb.jpg" alt="Random Cat Pic" width="300" height="300">
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
