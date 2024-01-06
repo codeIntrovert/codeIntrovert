@@ -21,7 +21,9 @@ jobs:
         node-version: 14
 
     - name: Install dependencies
-      run: npm install
+      run: |
+        npm install
+        npm install node-fetch
 
     - name: Fetch new cat image
       run: node updateCatImage.js
@@ -33,5 +35,3 @@ jobs:
         git add README.md
         git commit -m 'Update cat image'
         git push
-
-
