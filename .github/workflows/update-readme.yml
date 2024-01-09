@@ -2,8 +2,9 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 * * * *' # Set your desired schedule (e.g., daily at midnight)
-
+    - cron: '0 0 * * *' # Set your desired schedule (e.g., daily at midnight)
+  workflow_dispatch:
+  
 jobs:
   update-readme:
     runs-on: ubuntu-latest
