@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: "0 * * * *" # every hour
+    - cron: "0 * * * *" # Set your desired schedule (e.g., daily at midnight)
 
 jobs:
   update-readme:
@@ -24,3 +24,4 @@ jobs:
         run: node update-readme.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          API_KEY: ${{ secrets.API_KEY }}
