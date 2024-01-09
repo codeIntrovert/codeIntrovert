@@ -30,7 +30,7 @@ Updates Dynamically Every Hour :)
 
 <!-- QUOTE_START -->
 
-"Ambition is so powerful a passion in the human breast, that however high we reach we are never satisfied." - Machiavelli, Niccol?
+"In Fame's temple there is always a niche to be found for rich dunces, importunate scoundrels or successful butchers of the human race." - Zimmerman
 
 <!-- QUOTE_END -->
 ```
