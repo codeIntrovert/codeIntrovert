@@ -2,8 +2,16 @@
     "name": "github-actions-api-update",
     "version": "1.0.0",
     "main": "update-readme.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
     "dependencies": {
       "node-fetch": "^2.6.5"
-    }
+    },
+    "devDependencies": {},
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "GitHub Actions API Update"
   }
   

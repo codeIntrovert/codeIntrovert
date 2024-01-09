@@ -2,9 +2,9 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Set your desired schedule (e.g., daily at midnight)
+    - cron: "0 0 * * *" # Set your desired schedule (e.g., daily at midnight)
   workflow_dispatch:
-  
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -16,7 +16,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '14'
+          node-version: "14"
 
       - name: Install dependencies
         run: npm install
