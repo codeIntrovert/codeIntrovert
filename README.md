@@ -30,7 +30,7 @@ Updates Dynamically Every Hour :)
 
 <!-- QUOTE_START -->
 
-"No bird soars too high if he soars with his own wings." - Blake, William
+"Ambition is so powerful a passion in the human breast, that however high we reach we are never satisfied." - Machiavelli, Niccol?
 
 <!-- QUOTE_END -->
 ```
