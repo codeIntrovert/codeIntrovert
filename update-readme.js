@@ -3,14 +3,14 @@ const fetch = require("node-fetch");
 
 async function updateReadme() {
   const category = "happiness";
-  const apiKey = process.env.API_KEY; // Access the API key from environment variables
+  const apiKey = process.env.API_KEY;
 
   const apiEndpoint = `https://api.api-ninjas.com/v1/quotes?category=${category}`;
 
   try {
     const response = await fetch(apiEndpoint, {
       headers: {
-        "X-Api-Key": apiKey, // Set the API key in the request headers
+        "X-Api-Key": apiKey,
       },
     });
 
@@ -22,6 +22,17 @@ async function updateReadme() {
 
     const quote = data.quote;
     const author = data.author;
+    //Checking API response
+    console.log(quote);
+
+    // Debugging: Print current working directory
+    console.log("Current working directory:", process.cwd());
+
+    // Debugging: Print contents of README.md
+    console.log(
+      "Contents of README.md before update:",
+      fs.readFileSync("README.md", "utf-8")
+    );
 
     const readmePath = "README.md";
     let readmeContent = fs.readFileSync(readmePath, "utf-8");
@@ -33,6 +44,12 @@ async function updateReadme() {
     );
 
     fs.writeFileSync(readmePath, readmeContent);
+
+    // Debugging: Print contents of README.md after update
+    console.log(
+      "Contents of README.md after update:",
+      fs.readFileSync("README.md", "utf-8")
+    );
 
     console.log("README.md updated successfully.");
   } catch (error) {
