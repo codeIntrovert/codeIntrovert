@@ -1,5 +1,7 @@
 const fs = require("fs");
 const fetch = require("node-fetch");
+const util = require("util");
+const exec = util.promisify(require("child_process").exec);
 
 async function updateReadme() {
   const apiKey = process.env.API_KEY;
@@ -21,13 +23,6 @@ async function updateReadme() {
     // Add this code after the data is fetched
     console.log("API Response:", JSON.stringify(data, null, 2));
 
-    // Debugging: Print contents of README.md
-    console.log(
-      "Contents of README.md before update:",
-      fs.readFileSync("README.md", "utf-8")
-    );
-
-    // Check if the response is an array and contains at least one object
     if (Array.isArray(data) && data.length > 0) {
       const quote = data[0].quote || "No quote available";
       const author = data[0].author || "Unknown author";
@@ -49,6 +44,13 @@ async function updateReadme() {
       );
 
       console.log("README.md updated successfully.");
+
+      // Commit and push changes
+      await exec("git config --local user.email 'action@github.com'");
+      await exec("git config --local user.name 'GitHub Action'");
+      await exec("git add README.md");
+      await exec('git commit -m "Update README with new quote"');
+      await exec("git push");
     } else {
       console.error("API response is not in the expected format:", data);
       process.exit(1);
