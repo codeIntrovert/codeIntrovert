@@ -3,7 +3,7 @@ name: Update README
 on:
   schedule:
     - cron: "0 0 * * *" # Set your desired schedule (e.g., daily at midnight)
-  workflow_dispatch:
+workflow_dispatch:
 
 jobs:
   update-readme:
@@ -12,6 +12,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+
+      - name: Set Node modules path
+        run: echo "::add-path::$(npm bin)"
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
