@@ -28,7 +28,11 @@ const Hasan = {
 ```
 Updates Dynamically Every Hour :)
 
-<!-- QUOTE_START --><!-- QUOTE_END -->
+<!-- QUOTE_START -->
+
+"No bird soars too high if he soars with his own wings." - Blake, William
+
+<!-- QUOTE_END -->
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
