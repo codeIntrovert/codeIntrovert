@@ -18,6 +18,14 @@ async function updateReadme() {
     }
 
     const data = await response.json();
+    // Add this code after the data is fetched
+    console.log("API Response:", JSON.stringify(data, null, 2));
+
+    // Debugging: Print contents of README.md
+    console.log(
+      "Contents of README.md before update:",
+      fs.readFileSync("README.md", "utf-8")
+    );
 
     // Check if the response is an array and contains at least one object
     if (Array.isArray(data) && data.length > 0) {
@@ -34,6 +42,11 @@ async function updateReadme() {
       );
 
       fs.writeFileSync(readmePath, readmeContent);
+      // Debugging: Print contents of README.md after update
+      console.log(
+        "Contents of README.md after update:",
+        fs.readFileSync("README.md", "utf-8")
+      );
 
       console.log("README.md updated successfully.");
     } else {
