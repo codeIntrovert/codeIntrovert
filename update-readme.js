@@ -2,10 +2,9 @@ const fs = require("fs");
 const fetch = require("node-fetch");
 
 async function updateReadme() {
-  const category = "happiness";
   const apiKey = process.env.API_KEY;
 
-  const apiEndpoint = `https://api.api-ninjas.com/v1/quotes?category=${category}`;
+  const apiEndpoint = "https://api.api-ninjas.com/v1/quotes?category=success";
 
   try {
     const response = await fetch(apiEndpoint, {
@@ -20,10 +19,11 @@ async function updateReadme() {
 
     const data = await response.json();
 
-    const quote = data.quote;
-    const author = data.author;
+    const quote = data.quote || "No quote available";
+    const author = data.author || "Unknown author";
+
     //Checking API response
-    console.log(quote);
+    console.log("API Response:", JSON.stringify(data, null, 2));
 
     // Debugging: Print current working directory
     console.log("Current working directory:", process.cwd());
