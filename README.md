@@ -30,7 +30,7 @@ Updates Dynamically Every Hour :)
 
 <!-- QUOTE_START -->
 
-"In Fame's temple there is always a niche to be found for rich dunces, importunate scoundrels or successful butchers of the human race." - Zimmerman
+"He that climbs the tall tree has won right to the fruit, He that leaps the wide gulf should prevail in his suit." - Scott, Sir Walter
 
 <!-- QUOTE_END -->
 ```
