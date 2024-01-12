@@ -30,7 +30,7 @@ Updates Dynamically Every Hour :)
 
 <!-- QUOTE_START -->
 
-"We grow small trying to be great." - Jones, E. Stanley
+"Success is the result of behavior that completely contradicts the usual expectations about the behavior of a successful person." - Paturi, Felix R.
 
 <!-- QUOTE_END -->
 ```
