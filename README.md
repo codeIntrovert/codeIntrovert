@@ -25,8 +25,8 @@ const Hasan = {
 
 ### 💖 Quote Of the Day
 
-```
-Updates Dynamically Every Hour :)
+```html
+Updates Dynamically Every Day :)
 
 <!-- QUOTE_START -->
 
