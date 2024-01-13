@@ -30,7 +30,7 @@ Updates Dynamically Every Hour :)
 
 <!-- QUOTE_START -->
 
-"Success is the result of behavior that completely contradicts the usual expectations about the behavior of a successful person." - Paturi, Felix R.
+"The successful person is the individual who forms the habit of doing what the failing person doesn't like to do." - Riggs, Donald
 
 <!-- QUOTE_END -->
 ```
