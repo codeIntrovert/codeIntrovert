@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- QUOTE_START -->
 
-"The successful person is the individual who forms the habit of doing what the failing person doesn't like to do." - Riggs, Donald
+"The greatest accomplishment is not in never falling, but in rising again after you fall." - Lombardi, Vince
 
 <!-- QUOTE_END -->
 ```
