@@ -16,10 +16,10 @@
 ```javascript
 const Hasan = {
   pronouns: "he" | "him",
-  code: [Javascript, ReactJs, Sass, Python, Java],
-  tools: [React, Py - Flask, Jinja, Node, Sass],
+  code: [Javascript, ReactJs, Sass, Python, Java, Ruby],
+  tools: [React, Py - Flask, Jinja, Node, Sass, Ruby-jekyll],
   pipeLine: ["MERN", "Django", "OpenSource Experience"],
-  Quote: "Stay Creative, Stay Hungry, Stay Foolish",
+  hobbies:["Graphics Design", "Frontend Design", "Watching Cat Videos 🥰"]
 };
 ```
 
