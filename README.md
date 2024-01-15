@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- QUOTE_START -->
 
-"The greatest accomplishment is not in never falling, but in rising again after you fall." - Lombardi, Vince
+"In Fame's temple there is always a niche to be found for rich dunces, importunate scoundrels or successful butchers of the human race." - Zimmerman
 
 <!-- QUOTE_END -->
 ```
