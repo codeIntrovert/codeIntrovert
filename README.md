@@ -6,7 +6,7 @@
 <p>A GenZ coding Enthusiast<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCKkj-sW42Jj2eS6UlvbEgsA?label=IntrovertCoder)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCKkj-sW42Jj2eS6UlvbEgsA?label=IntrovertCoder)](https://www.youtube.com/introvertCoder/)
 [![Instagram: introvertCoder](https://img.shields.io/badge/-introvertCoder-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/introvertCoder/)](https://www.instagram.com/introvertCoder/)
 [![Linkedin: introvertCoder](https://img.shields.io/badge/-introvertcoder-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/introvertcoder/)](https://www.linkedin.com/in/introvertcoder/)
 <img id="preview" src="https://komarev.com/ghpvc/?username=codeIntrovert&color=brightgreen">
@@ -19,7 +19,7 @@ const Hasan = {
   code: [Javascript, ReactJs, Sass, Python, Java, Ruby],
   tools: [React, Py - Flask, Jinja, Node, Sass, Ruby-jekyll],
   pipeLine: ["MERN", "Django", "OpenSource Experience"],
-  hobbies:["Graphics Design", "Frontend Design", "Watching Cat Videos 🥰"]
+  hobbies:["Graphics Design", "Frontend Design", "Cycling", "Watching Cat Videos 🥰"]
 };
 ```
 
