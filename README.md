@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- QUOTE_START -->
 
-"In Fame's temple there is always a niche to be found for rich dunces, importunate scoundrels or successful butchers of the human race." - Zimmerman
+"If a man is happy in his work exerting himself to the full extent of his capabilities, and enjoying it I'd say he's a success." - Romain, William
 
 <!-- QUOTE_END -->
 ```
