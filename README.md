@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- QUOTE_START -->
 
-"If a man is happy in his work exerting himself to the full extent of his capabilities, and enjoying it I'd say he's a success." - Romain, William
+"The secret of all victory lies in the organization of the non-obvious." - Spengler, Oswald
 
 <!-- QUOTE_END -->
 ```
