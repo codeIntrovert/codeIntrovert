@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- QUOTE_START -->
 
-"The secret of all victory lies in the organization of the non-obvious." - Spengler, Oswald
+"The road to success is filled with women pushing their husbands along." - Dewar, Thomas R.
 
 <!-- QUOTE_END -->
 ```
