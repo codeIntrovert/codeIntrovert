@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- QUOTE_START -->
 
-"The road to success is filled with women pushing their husbands along." - Dewar, Thomas R.
+"Success is one unpardonable sin against one's fellows." - Berlin, Irving
 
 <!-- QUOTE_END -->
 ```
