@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- QUOTE_START -->
 
-"Success is one unpardonable sin against one's fellows." - Berlin, Irving
+"Success is the sole earthly judge of right and wrong." - Hitler, Adolf
 
 <!-- QUOTE_END -->
 ```
