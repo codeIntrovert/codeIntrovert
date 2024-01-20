@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- QUOTE_START -->
 
-"Success is the sole earthly judge of right and wrong." - Hitler, Adolf
+"We need fundamental change. In the past, national development led to people's happiness but now the link between national growth and improvement in people's lives has been severed." - Park Geun-hye
 
 <!-- QUOTE_END -->
 ```
