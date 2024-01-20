@@ -6,7 +6,7 @@ const exec = util.promisify(require("child_process").exec);
 async function updateReadme() {
   const apiKey = process.env.API_KEY;
 
-  const apiEndpoint = "https://api.api-ninjas.com/v1/quotes?category=success";
+  const apiEndpoint = "https://api.api-ninjas.com/v1/quotes?category=happiness";
 
   try {
     const response = await fetch(apiEndpoint, {
