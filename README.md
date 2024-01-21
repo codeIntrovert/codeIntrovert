@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- QUOTE_START -->
 
-"We need fundamental change. In the past, national development led to people's happiness but now the link between national growth and improvement in people's lives has been severed." - Park Geun-hye
+"Little islands of human happiness, peace, and prosperity are so exceptional at this point in history that I'm not even sure we can draw lessons from them." - P. J. O'Rourke
 
 <!-- QUOTE_END -->
 ```
