@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- QUOTE_START -->
 
-"Little islands of human happiness, peace, and prosperity are so exceptional at this point in history that I'm not even sure we can draw lessons from them." - P. J. O'Rourke
+"I thank my God for graciously granting me the opportunity of learning that death is the key which unlocks the door to our true happiness." - Wolfgang Amadeus Mozart
 
 <!-- QUOTE_END -->
 ```
