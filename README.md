@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- QUOTE_START -->
 
-"I thank my God for graciously granting me the opportunity of learning that death is the key which unlocks the door to our true happiness." - Wolfgang Amadeus Mozart
+"Money cannot buy happiness." - Annni-Frid Lyngstad
 
 <!-- QUOTE_END -->
 ```
