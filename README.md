@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- QUOTE_START -->
 
-"Money cannot buy happiness." - Annni-Frid Lyngstad
+"It is the chiefest point of happiness that a man is willing to be what he is." - Desiderius Erasmus
 
 <!-- QUOTE_END -->
 ```
