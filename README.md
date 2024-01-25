@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- QUOTE_START -->
 
-"It is the chiefest point of happiness that a man is willing to be what he is." - Desiderius Erasmus
+"Happy he who learns to bear what he cannot change." - Friedrich Schiller
 
 <!-- QUOTE_END -->
 ```
