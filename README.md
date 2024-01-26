@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- QUOTE_START -->
 
-"Happy he who learns to bear what he cannot change." - Friedrich Schiller
+"Choose your life's mate carefully. From this one decision will come 90 percent of all your happiness or misery." - H. Jackson Brown, Jr.
 
 <!-- QUOTE_END -->
 ```
