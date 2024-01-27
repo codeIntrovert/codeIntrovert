@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- QUOTE_START -->
 
-"Choose your life's mate carefully. From this one decision will come 90 percent of all your happiness or misery." - H. Jackson Brown, Jr.
+"The principle we call self-love never seeks anything external for the sake of the thing, but only as a means of happiness or good: particular affections rest in the external things themselves." - Joseph Butler
 
 <!-- QUOTE_END -->
 ```
