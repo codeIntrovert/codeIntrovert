@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- QUOTE_START -->
 
-"The principle we call self-love never seeks anything external for the sake of the thing, but only as a means of happiness or good: particular affections rest in the external things themselves." - Joseph Butler
+"Real happiness is cheap enough, yet how dearly we pay for its counterfeit." - Hosea Ballou
 
 <!-- QUOTE_END -->
 ```
