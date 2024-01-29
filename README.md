@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- QUOTE_START -->
 
-"Real happiness is cheap enough, yet how dearly we pay for its counterfeit." - Hosea Ballou
+"The U. S. Constitution doesn't guarantee happiness, only the pursuit of it. You have to catch up with it yourself." - Benjamin Franklin
 
 <!-- QUOTE_END -->
 ```
