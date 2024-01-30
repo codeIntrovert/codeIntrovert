@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- QUOTE_START -->
 
-"The U. S. Constitution doesn't guarantee happiness, only the pursuit of it. You have to catch up with it yourself." - Benjamin Franklin
+"I learned from a very young age that if I pursued the things that truly excited me, that they would reward in more important ways, like happiness." - Brandon Boyd
 
 <!-- QUOTE_END -->
 ```
