@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- QUOTE_START -->
 
-"I learned from a very young age that if I pursued the things that truly excited me, that they would reward in more important ways, like happiness." - Brandon Boyd
+"Happiness, that grand mistress of the ceremonies in the dance of life, impels us through all its mazes and meanderings, but leads none of us by the same route." - Colton, Charles C.
 
 <!-- QUOTE_END -->
 ```
