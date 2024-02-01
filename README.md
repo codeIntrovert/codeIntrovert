@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- QUOTE_START -->
 
-"Happiness, that grand mistress of the ceremonies in the dance of life, impels us through all its mazes and meanderings, but leads none of us by the same route." - Colton, Charles C.
+"Success in its highest and noblest form calls for peace of mind and enjoyment and happiness which come only to the man who has found the work that he likes best." - Napoleon Hill
 
 <!-- QUOTE_END -->
 ```
