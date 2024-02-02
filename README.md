@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- QUOTE_START -->
 
-"Success in its highest and noblest form calls for peace of mind and enjoyment and happiness which come only to the man who has found the work that he likes best." - Napoleon Hill
+"There is only one happiness in this life, to love and be loved." - George Sand
 
 <!-- QUOTE_END -->
 ```
