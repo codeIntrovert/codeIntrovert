@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- QUOTE_START -->
 
-"There is only one happiness in this life, to love and be loved." - George Sand
+"People let their own hang-ups become the obstacles between them and personal happiness." - Lucinda Williams
 
 <!-- QUOTE_END -->
 ```
