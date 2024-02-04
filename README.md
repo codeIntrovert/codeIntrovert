@@ -17,9 +17,9 @@
 const Hasan = {
   pronouns: "he" | "him",
   code: [Javascript, ReactJs, Sass, Python, Java, Ruby],
-  tools: [React, Py - Flask, Jinja, Node, Sass, Ruby - jekyll],
+  tools: [React, Py - Flask, Jinja, Node, Sass, RubyJekyll],
   pipeLine: ["MERN", "Django", "OpenSource Experience"],
-  hobbies:["Graphics Design", "Frontend Design", "Cycling", "Watching Cat Videos 🥰"]
+  hobbies:["Designing UI Mockups", "Cycling", "Watching Cat Videos 🥰"]
 };
 ```
 
