@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- QUOTE_START -->
 
-"People let their own hang-ups become the obstacles between them and personal happiness." - Lucinda Williams
+"Affection is responsible for nine-tenths of whatever solid and durable happiness there is in our lives." - C. S. Lewis
 
 <!-- QUOTE_END -->
 ```
