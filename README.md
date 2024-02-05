@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- QUOTE_START -->
 
-"Affection is responsible for nine-tenths of whatever solid and durable happiness there is in our lives." - C. S. Lewis
+"I believe that my clothes can give people a better image of themselves - that it can increase their feelings of confidence and happiness." - Giorgio Armani
 
 <!-- QUOTE_END -->
 ```
