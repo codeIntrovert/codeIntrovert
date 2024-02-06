@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- QUOTE_START -->
 
-"I believe that my clothes can give people a better image of themselves - that it can increase their feelings of confidence and happiness." - Giorgio Armani
+"It's afterwards you realize that the feeling of happiness you had with a man didn't necessarily prove that you loved him." - Marguerite Duras
 
 <!-- QUOTE_END -->
 ```
