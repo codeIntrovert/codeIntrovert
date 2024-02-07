@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- QUOTE_START -->
 
-"It's afterwards you realize that the feeling of happiness you had with a man didn't necessarily prove that you loved him." - Marguerite Duras
+"The U. S. Constitution doesn't guarantee happiness, only the pursuit of it. You have to catch up with it yourself." - Benjamin Franklin
 
 <!-- QUOTE_END -->
 ```
