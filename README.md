@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- QUOTE_START -->
 
-"The U. S. Constitution doesn't guarantee happiness, only the pursuit of it. You have to catch up with it yourself." - Benjamin Franklin
+"The ultimate end of education is happiness or a good human life, a life enriched by the possession of every kind of good, by the enjoyment of every type of satisfaction." - Mortimer Adler
 
 <!-- QUOTE_END -->
 ```
