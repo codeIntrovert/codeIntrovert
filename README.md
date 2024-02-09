@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- QUOTE_START -->
 
-"The ultimate end of education is happiness or a good human life, a life enriched by the possession of every kind of good, by the enjoyment of every type of satisfaction." - Mortimer Adler
+"Virtue is simply happiness, and happiness is a by-product of function. You are happy when you are functioning." - William Burroughs
 
 <!-- QUOTE_END -->
 ```
