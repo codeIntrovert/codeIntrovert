@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- QUOTE_START -->
 
-"Virtue is simply happiness, and happiness is a by-product of function. You are happy when you are functioning." - William Burroughs
+"There is joy in work. There is no happiness except in the realization that we have accomplished something." - Henry Ford
 
 <!-- QUOTE_END -->
 ```
