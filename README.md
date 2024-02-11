@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- QUOTE_START -->
 
-"There is joy in work. There is no happiness except in the realization that we have accomplished something." - Henry Ford
+"Nothing brings me more happiness than trying to help the most vulnerable people in society. It is a goal and an essential part of my life - a kind of destiny. Whoever is in distress can call on me. I will come running wherever they are." - Princess Diana
 
 <!-- QUOTE_END -->
 ```
