@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"As a bookish child in Calcutta, I used to thrill to the adventures of bad girls whose pursuit of happiness swept them outside the bounds of social decency. Tess of the d'Urbervilles, Emma Bovary and Anna Karenina lived large in my imagination. The naughty girls of Hollywood films flirted and knew how to drive." - Bharati Mukherjee
+"Tragedy is a tool for the living to gain wisdom, not a guide by which to live." - Robert F. Kennedy
 
 <!-- Powered By zenquotes.io -->
 ```
