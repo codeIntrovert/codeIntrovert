@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- QUOTE_START -->
 
-"Nothing brings me more happiness than trying to help the most vulnerable people in society. It is a goal and an essential part of my life - a kind of destiny. Whoever is in distress can call on me. I will come running wherever they are." - Princess Diana
+"I understand by this passion the union of desire, friendship, and tenderness, which is inflamed by a single female, which prefers her to the rest of her sex, and which seeks her possession as the supreme or the sole happiness of our being." - Edward Gibbon
 
 <!-- QUOTE_END -->
 ```
