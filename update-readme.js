@@ -29,8 +29,8 @@ async function updateReadme() {
 
       // Update README.md content with the obtained quote and author
       readmeContent = readmeContent.replace(
-        /# Quote Of the day.*# Powered By zenquotes.io/s,
-        `# Quote Of the day\n\n"${quote}" - ${author}\n\n# Powered By zenquotes.io`
+        /<!-- Quote Of the day -->.*<!-- Powered By zenquotes.io -->/s,
+        `<!-- Quote Of the day -->\n\n"${quote}" - ${author}\n\n<!-- Powered By zenquotes.io -->`
       );
 
       fs.writeFileSync(readmePath, readmeContent);
