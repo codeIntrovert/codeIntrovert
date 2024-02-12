@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- QUOTE_START -->
 
-"I understand by this passion the union of desire, friendship, and tenderness, which is inflamed by a single female, which prefers her to the rest of her sex, and which seeks her possession as the supreme or the sole happiness of our being." - Edward Gibbon
+"As a bookish child in Calcutta, I used to thrill to the adventures of bad girls whose pursuit of happiness swept them outside the bounds of social decency. Tess of the d'Urbervilles, Emma Bovary and Anna Karenina lived large in my imagination. The naughty girls of Hollywood films flirted and knew how to drive." - Bharati Mukherjee
 
 <!-- QUOTE_END -->
 ```
