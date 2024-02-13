@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Tragedy is a tool for the living to gain wisdom, not a guide by which to live." - Robert F. Kennedy
+"You can start changing our world for the better daily, no matter how small the action." - Nelson Mandela
 
 <!-- Powered By zenquotes.io -->
 ```
