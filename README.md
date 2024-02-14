@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"You can start changing our world for the better daily, no matter how small the action." - Nelson Mandela
+"Be polite to all, but intimate with few." - Thomas Jefferson
 
 <!-- Powered By zenquotes.io -->
 ```
