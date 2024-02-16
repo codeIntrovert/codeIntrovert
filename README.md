@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Tragedy is a tool for the living to gain wisdom, not a guide by which to live." - Robert F. Kennedy
+"He who violates another's honor loses his own." - Publilius Syrus
 
 <!-- Powered By zenquotes.io -->
 ```
