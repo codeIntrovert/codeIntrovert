@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"I would rather be hated for who I am than loved for who I'm not.  " - Wayne Dyer
+"He who violates another's honor loses his own." - Publilius Syrus
 
 <!-- Powered By zenquotes.io -->
 ```
