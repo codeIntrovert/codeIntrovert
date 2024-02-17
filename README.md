@@ -16,8 +16,8 @@
 ```javascript
 const Hasan = {
   pronouns: "he" | "him",
-  code: [Javascript, Python, Java, Ruby, HTML, CSS],
-  frameWorks: [React, NodeJs, ExpressJs,  Flask, Jinja, Node, Sass, RubyJekyll],
+  code: [Javascript, Python, Java, Ruby],
+  frameWorks: [React, NodeJs, ExpressJs,  Flask, Jinja, Sass, TailwindCSS, RubyJekyll],
   pipeLine: ["MERN", "Django", "OpenSource Experience"],
   hobbies:["Designing UI Mockups", "Cycling", "Watching Cat Videos 🥰"]
 };
