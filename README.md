@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"He who violates another's honor loses his own." - Publilius Syrus
+"Ask no questions, and you'll be told no lies." - Charles Dickens
 
 <!-- Powered By zenquotes.io -->
 ```
