@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Ask no questions, and you'll be told no lies." - Charles Dickens
+"Empty your mind, be formless, shapeless, like water." - Bruce Lee
 
 <!-- Powered By zenquotes.io -->
 ```
