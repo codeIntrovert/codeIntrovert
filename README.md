@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Empty your mind, be formless, shapeless, like water." - Bruce Lee
+"If you correct your mind, the rest of your life will fall into place." - Lao Tzu
 
 <!-- Powered By zenquotes.io -->
 ```
