@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"If you correct your mind, the rest of your life will fall into place." - Lao Tzu
+"If you see yourself as prosperous, you will be." - Robert Collier
 
 <!-- Powered By zenquotes.io -->
 ```
