@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"If you see yourself as prosperous, you will be." - Robert Collier
+"What people need and what they want may be very different." - Elbert Hubbard
 
 <!-- Powered By zenquotes.io -->
 ```
