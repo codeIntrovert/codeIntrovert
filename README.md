@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"What people need and what they want may be very different." - Elbert Hubbard
+"Only by acceptance of the past, can you alter it." - T.S. Eliot
 
 <!-- Powered By zenquotes.io -->
 ```
