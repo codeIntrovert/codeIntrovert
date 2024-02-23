@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Only by acceptance of the past, can you alter it." - T.S. Eliot
+"Instead of being intimidated by the limitations, be inspired to find new ways around them." - Ralph Marston
 
 <!-- Powered By zenquotes.io -->
 ```
