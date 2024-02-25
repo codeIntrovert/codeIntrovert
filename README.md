@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"New beginnings are disguised as painful endings." - Lao Tzu
+"Courage is fear that has said its prayers and decided to go forward anyway." - Joyce Meyer
 
 <!-- Powered By zenquotes.io -->
 ```
