@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Courage is fear that has said its prayers and decided to go forward anyway." - Joyce Meyer
+"One beam, no matter how big, cannot support an entire house on its own." - Chinese Proverb
 
 <!-- Powered By zenquotes.io -->
 ```
