@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"One beam, no matter how big, cannot support an entire house on its own." - Chinese Proverb
+"Whatever you are, be a good one." - Abraham Lincoln
 
 <!-- Powered By zenquotes.io -->
 ```
