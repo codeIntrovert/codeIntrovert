@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Whatever you are, be a good one." - Abraham Lincoln
+"One loyal friend is worth ten thousand relatives." - Euripides
 
 <!-- Powered By zenquotes.io -->
 ```
