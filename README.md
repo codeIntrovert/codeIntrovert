@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"One loyal friend is worth ten thousand relatives." - Euripides
+"The world is open for play, everything and everybody is mockable in a wonderful way." - Robin Williams
 
 <!-- Powered By zenquotes.io -->
 ```
