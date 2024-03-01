@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"The world is open for play, everything and everybody is mockable in a wonderful way." - Robin Williams
+"I skate to where the puck is going to be, not where it has been." - Wayne Gretzky
 
 <!-- Powered By zenquotes.io -->
 ```
