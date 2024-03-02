@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"I skate to where the puck is going to be, not where it has been." - Wayne Gretzky
+"The only reason to be alive is to enjoy it." - Rita Mae Brown
 
 <!-- Powered By zenquotes.io -->
 ```
