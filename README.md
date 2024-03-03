@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"The only reason to be alive is to enjoy it." - Rita Mae Brown
+"A Rolling Stone Gathers No Moss." - Publilius Syrus
 
 <!-- Powered By zenquotes.io -->
 ```
