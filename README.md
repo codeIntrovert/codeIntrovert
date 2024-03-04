@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"A Rolling Stone Gathers No Moss." - Publilius Syrus
+"Make improvements, not excuses. Seek respect, not attention." - Roy T. Bennett
 
 <!-- Powered By zenquotes.io -->
 ```
