@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Make improvements, not excuses. Seek respect, not attention." - Roy T. Bennett
+"The more reasons you have for achieving your goal, the more determined you will become." - Brian Tracy
 
 <!-- Powered By zenquotes.io -->
 ```
