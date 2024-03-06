@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"The more reasons you have for achieving your goal, the more determined you will become." - Brian Tracy
+"The only way round is through." - Robert Frost
 
 <!-- Powered By zenquotes.io -->
 ```
