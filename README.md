@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"The only way round is through." - Robert Frost
+"Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away." - John Lennon
 
 <!-- Powered By zenquotes.io -->
 ```
