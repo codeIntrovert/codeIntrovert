@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away." - John Lennon
+"The meaning of life is to find your gift. The purpose of life is to give it away." - Pablo Picasso
 
 <!-- Powered By zenquotes.io -->
 ```
