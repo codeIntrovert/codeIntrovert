@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"The meaning of life is to find your gift. The purpose of life is to give it away." - Pablo Picasso
+"Don't let them drag you down by rumors. Just go with what you believe in." - Michael Jordan
 
 <!-- Powered By zenquotes.io -->
 ```
