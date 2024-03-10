@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Don't let them drag you down by rumors. Just go with what you believe in." - Michael Jordan
+"Your neighbor is the man who needs you." - Elbert Hubbard
 
 <!-- Powered By zenquotes.io -->
 ```
