@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Your neighbor is the man who needs you." - Elbert Hubbard
+"Make peace with your inner turmoil." - Unknown
 
 <!-- Powered By zenquotes.io -->
 ```
