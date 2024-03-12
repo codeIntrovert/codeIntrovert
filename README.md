@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Make peace with your inner turmoil." - Unknown
+"To become what you are not, behave as you do not." - T.S. Eliot
 
 <!-- Powered By zenquotes.io -->
 ```
