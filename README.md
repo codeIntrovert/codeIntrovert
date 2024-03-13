@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"To become what you are not, behave as you do not." - T.S. Eliot
+"Success comes to those who become success conscious." - Napoleon Hill
 
 <!-- Powered By zenquotes.io -->
 ```
