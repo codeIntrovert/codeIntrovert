@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board." - D. H. Lawrence
+"Follow your heart, listen to your inner voice, stop caring about what others think." - Roy T. Bennett
 
 <!-- Powered By zenquotes.io -->
 ```
