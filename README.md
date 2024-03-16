@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Follow your heart, listen to your inner voice, stop caring about what others think." - Roy T. Bennett
+"I will not walk backward in life." - J.R.R. Tolkien
 
 <!-- Powered By zenquotes.io -->
 ```
