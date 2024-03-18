@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Once you learn to quit, it becomes a habit." - Vince Lombardi
+"If you do not conquer self, you will be conquered by self." - Napoleon Hill
 
 <!-- Powered By zenquotes.io -->
 ```
