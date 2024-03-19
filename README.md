@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"If you do not conquer self, you will be conquered by self." - Napoleon Hill
+"To achieve, you need thought. You have to know what you are doing and that's real power." - Ayn Rand
 
 <!-- Powered By zenquotes.io -->
 ```
