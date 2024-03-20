@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"To achieve, you need thought. You have to know what you are doing and that's real power." - Ayn Rand
+"To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh." - Pema Chodron
 
 <!-- Powered By zenquotes.io -->
 ```
