@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!" - Robert Kiyosaki
+"All know the way; few actually walk it. " - Bodhidharma
 
 <!-- Powered By zenquotes.io -->
 ```
