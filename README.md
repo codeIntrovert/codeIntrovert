@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"All know the way; few actually walk it. " - Bodhidharma
+"The health of nations is more important than the wealth of nations." - Will Rogers
 
 <!-- Powered By zenquotes.io -->
 ```
