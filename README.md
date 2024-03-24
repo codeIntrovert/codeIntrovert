@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"The health of nations is more important than the wealth of nations." - Will Rogers
+"The secret of change is to focus all your energy not on fighting the old, but on building the new." - Dan Millman
 
 <!-- Powered By zenquotes.io -->
 ```
