@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"The secret of change is to focus all your energy not on fighting the old, but on building the new." - Dan Millman
+"We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves." - Kamal Ravikant
 
 <!-- Powered By zenquotes.io -->
 ```
