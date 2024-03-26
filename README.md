@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves." - Kamal Ravikant
+"When a man is penalized for honesty he learns to lie." - Criss Jami
 
 <!-- Powered By zenquotes.io -->
 ```
