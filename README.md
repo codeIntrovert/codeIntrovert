@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"When a man is penalized for honesty he learns to lie." - Criss Jami
+"Music is like creating an emotional painting. The sounds are the colors." - Yanni
 
 <!-- Powered By zenquotes.io -->
 ```
