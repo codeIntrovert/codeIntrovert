@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Music is like creating an emotional painting. The sounds are the colors." - Yanni
+"The power to make and break habits and learning how to do that is really important." - Naval Ravikant
 
 <!-- Powered By zenquotes.io -->
 ```
