@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"The power to make and break habits and learning how to do that is really important." - Naval Ravikant
+"Gratitude is the fairest blossom which springs from the soul." - Henry Ward Beecher
 
 <!-- Powered By zenquotes.io -->
 ```
