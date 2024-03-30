@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Gratitude is the fairest blossom which springs from the soul." - Henry Ward Beecher
+"The only way out is through." - Robert Frost
 
 <!-- Powered By zenquotes.io -->
 ```
