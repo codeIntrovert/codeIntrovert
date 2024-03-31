@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"The only way out is through." - Robert Frost
+"Everything great that has ever happened to humanity has begun as a single thought in someone's mind." - Yanni
 
 <!-- Powered By zenquotes.io -->
 ```
