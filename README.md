@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Everything great that has ever happened to humanity has begun as a single thought in someone's mind." - Yanni
+"The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. " - St. Jerome
 
 <!-- Powered By zenquotes.io -->
 ```
