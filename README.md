@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. " - St. Jerome
+"There are as many opinions as there are experts." - Franklin D. Roosevelt
 
 <!-- Powered By zenquotes.io -->
 ```
