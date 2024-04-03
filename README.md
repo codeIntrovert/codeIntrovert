@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"There are as many opinions as there are experts." - Franklin D. Roosevelt
+"Do good, live in the most positive and joyful way possible every day." - Roy T. Bennett
 
 <!-- Powered By zenquotes.io -->
 ```
