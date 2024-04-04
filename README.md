@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Do good, live in the most positive and joyful way possible every day." - Roy T. Bennett
+"Most of the evil in this world is done by people with good intentions." - T.S. Eliot
 
 <!-- Powered By zenquotes.io -->
 ```
