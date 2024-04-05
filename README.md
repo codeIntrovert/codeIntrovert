@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Most of the evil in this world is done by people with good intentions." - T.S. Eliot
+"Never whine, never complain, never try to justify yourself." - Robert Greene
 
 <!-- Powered By zenquotes.io -->
 ```
