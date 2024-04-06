@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Never whine, never complain, never try to justify yourself." - Robert Greene
+"Your home is where your thoughts find peace." - Zen Proverb
 
 <!-- Powered By zenquotes.io -->
 ```
