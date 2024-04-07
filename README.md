@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Your home is where your thoughts find peace." - Zen Proverb
+"Do not be so open-minded that your brains fall out." - Gilbert Chesterton
 
 <!-- Powered By zenquotes.io -->
 ```
