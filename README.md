@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Do not be so open-minded that your brains fall out." - Gilbert Chesterton
+"May you live all the days of your life." - Jonathan Swift
 
 <!-- Powered By zenquotes.io -->
 ```
