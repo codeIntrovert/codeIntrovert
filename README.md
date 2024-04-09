@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"May you live all the days of your life." - Jonathan Swift
+"Wishing to be friends is quick work, but friendship is a slow ripening fruit." - Aristotle
 
 <!-- Powered By zenquotes.io -->
 ```
