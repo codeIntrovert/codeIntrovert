@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Wishing to be friends is quick work, but friendship is a slow ripening fruit." - Aristotle
+"None of us can change our yesterdays but all of us can change our tomorrows." - Colin Powell
 
 <!-- Powered By zenquotes.io -->
 ```
