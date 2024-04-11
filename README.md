@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"None of us can change our yesterdays but all of us can change our tomorrows." - Colin Powell
+"I put my heart and soul into my work, and I have lost my mind in the process." - Vincent van Gogh
 
 <!-- Powered By zenquotes.io -->
 ```
