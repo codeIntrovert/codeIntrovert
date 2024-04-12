@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"I put my heart and soul into my work, and I have lost my mind in the process." - Vincent van Gogh
+"He who is untrue to his own cause cannot command the respect of others." - Albert Einstein
 
 <!-- Powered By zenquotes.io -->
 ```
