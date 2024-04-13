@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"He who is untrue to his own cause cannot command the respect of others." - Albert Einstein
+"I know of only one duty, and that is to love." - George Bernard Shaw
 
 <!-- Powered By zenquotes.io -->
 ```
