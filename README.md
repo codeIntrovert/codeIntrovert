@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"I know of only one duty, and that is to love." - George Bernard Shaw
+"I can think of nothing less pleasurable than a life devoted to pleasure." - John D. Rockefeller
 
 <!-- Powered By zenquotes.io -->
 ```
