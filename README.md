@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"I can think of nothing less pleasurable than a life devoted to pleasure." - John D. Rockefeller
+"Change will not come if we wait for some other person, or if we wait for some other time." - Barack Obama
 
 <!-- Powered By zenquotes.io -->
 ```
