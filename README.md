@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Change will not come if we wait for some other person, or if we wait for some other time." - Barack Obama
+"My powers are ordinary. Only my application brings me success." - Isaac Newton
 
 <!-- Powered By zenquotes.io -->
 ```
