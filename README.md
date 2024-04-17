@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"My powers are ordinary. Only my application brings me success." - Isaac Newton
+"The way to get started is to quit talking and begin doing." - Walt Disney
 
 <!-- Powered By zenquotes.io -->
 ```
