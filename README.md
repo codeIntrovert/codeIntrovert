@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"The way to get started is to quit talking and begin doing." - Walt Disney
+"The more you know, the more you know you don't know." - Aristotle
 
 <!-- Powered By zenquotes.io -->
 ```
