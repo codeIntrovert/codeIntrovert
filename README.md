@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"The more you know, the more you know you don't know." - Aristotle
+"Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat." - Sun Tzu
 
 <!-- Powered By zenquotes.io -->
 ```
