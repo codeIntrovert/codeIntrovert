@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat." - Sun Tzu
+"You can have results or excuses, but not both." - Arnold Schwarzenegger
 
 <!-- Powered By zenquotes.io -->
 ```
