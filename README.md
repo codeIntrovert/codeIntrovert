@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"You can have results or excuses, but not both." - Arnold Schwarzenegger
+"The biggest challenge after success is shutting up about it." - Criss Jami
 
 <!-- Powered By zenquotes.io -->
 ```
