@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"The biggest challenge after success is shutting up about it." - Criss Jami
+"The only difference between success and failure is the ability to take action." - Alexander Graham Bell
 
 <!-- Powered By zenquotes.io -->
 ```
