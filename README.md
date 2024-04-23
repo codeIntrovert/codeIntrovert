@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"The only difference between success and failure is the ability to take action." - Alexander Graham Bell
+"Realistic people do not accomplish extraordinary things." - John Eliot
 
 <!-- Powered By zenquotes.io -->
 ```
