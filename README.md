@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Realistic people do not accomplish extraordinary things." - John Eliot
+"Opportunity comes when you continually push forward." - Sonia Ricotti
 
 <!-- Powered By zenquotes.io -->
 ```
