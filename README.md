@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Opportunity comes when you continually push forward." - Sonia Ricotti
+"Do not bite at the bait of pleasure, till you know there is no hook beneath it." - Thomas Jefferson
 
 <!-- Powered By zenquotes.io -->
 ```
