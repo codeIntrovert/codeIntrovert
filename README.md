@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Do not bite at the bait of pleasure, till you know there is no hook beneath it." - Thomas Jefferson
+"It's better to stand by someone's side than by yourself." - Jack London
 
 <!-- Powered By zenquotes.io -->
 ```
