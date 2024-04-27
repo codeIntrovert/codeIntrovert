@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"It's better to stand by someone's side than by yourself." - Jack London
+"Human behavior flows from three main sources: desire, emotion, and knowledge." - Plato
 
 <!-- Powered By zenquotes.io -->
 ```
