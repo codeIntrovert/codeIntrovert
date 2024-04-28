@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Human behavior flows from three main sources: desire, emotion, and knowledge." - Plato
+"Given the choice between the experience of pain and nothing, I would choose pain." - William Faulkner
 
 <!-- Powered By zenquotes.io -->
 ```
