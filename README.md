@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Given the choice between the experience of pain and nothing, I would choose pain." - William Faulkner
+"The secret of life isn't what happens to you, but what you do with what happens to you." - Norman Vincent Peale
 
 <!-- Powered By zenquotes.io -->
 ```
