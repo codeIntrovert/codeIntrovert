@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"The secret of life isn't what happens to you, but what you do with what happens to you." - Norman Vincent Peale
+"You can't build a reputation on what you are going to do. " - Henry Ford
 
 <!-- Powered By zenquotes.io -->
 ```
