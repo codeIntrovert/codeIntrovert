@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"You can't build a reputation on what you are going to do. " - Henry Ford
+"Not until we are lost do we begin to understand ourselves." - Henry David Thoreau
 
 <!-- Powered By zenquotes.io -->
 ```
