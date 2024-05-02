@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Not until we are lost do we begin to understand ourselves." - Henry David Thoreau
+"We lie the loudest when we lie to ourselves." - Eric Hoffer
 
 <!-- Powered By zenquotes.io -->
 ```
