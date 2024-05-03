@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"We lie the loudest when we lie to ourselves." - Eric Hoffer
+"Success in any endeavor depends on the degree to which it is an expression of your true self. " - Ralph Marston
 
 <!-- Powered By zenquotes.io -->
 ```
