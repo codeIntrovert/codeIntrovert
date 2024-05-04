@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Success in any endeavor depends on the degree to which it is an expression of your true self. " - Ralph Marston
+"Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy." - Norman Vincent Peale
 
 <!-- Powered By zenquotes.io -->
 ```
