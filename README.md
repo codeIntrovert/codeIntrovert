@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy." - Norman Vincent Peale
+"Anger exceeding limits causes fear and excessive kindness eliminates respect." - Euripides
 
 <!-- Powered By zenquotes.io -->
 ```
