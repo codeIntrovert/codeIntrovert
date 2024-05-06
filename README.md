@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Anger exceeding limits causes fear and excessive kindness eliminates respect." - Euripides
+"It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.  " - Seneca
 
 <!-- Powered By zenquotes.io -->
 ```
