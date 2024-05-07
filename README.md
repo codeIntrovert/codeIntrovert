@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.  " - Seneca
+"Disobedience is the true foundation of liberty. The obedient must be slaves." - Henry David Thoreau
 
 <!-- Powered By zenquotes.io -->
 ```
