@@ -30,7 +30,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Disobedience is the true foundation of liberty. The obedient must be slaves." - Henry David Thoreau
+"You can put lipstick on a pig. It's still a pig." - Barack Obama
 
 <!-- Powered By zenquotes.io -->
 ```
