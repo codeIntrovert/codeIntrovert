@@ -35,7 +35,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"You can put lipstick on a pig. It's still a pig." - Barack Obama
+"A single act of kindness throws out roots in all directions, and the roots spring up and make new trees." - Amelia Earhart
 
 <!-- Powered By zenquotes.io -->
 ```
