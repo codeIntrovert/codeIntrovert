@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/sR4wvGw.png" alt="Hasan Imam - Web Developer">
+<!-- <img src="https://i.imgur.com/sR4wvGw.png" alt="Hasan Imam - Web Developer"> -->
 
 <h1>😎 Hi, I'm Hasan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h1>
