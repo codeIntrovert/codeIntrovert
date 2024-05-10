@@ -35,7 +35,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"A single act of kindness throws out roots in all directions, and the roots spring up and make new trees." - Amelia Earhart
+"Giving is living. If you stop wanting to give, there's nothing more to live for." - Audrey Hepburn
 
 <!-- Powered By zenquotes.io -->
 ```
