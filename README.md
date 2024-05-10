@@ -27,7 +27,7 @@ const Hasan = {
 - Hosted Python AI Basics workshop with [Codingal](https://www.codingal.com/coding-for-kids/masterclasses/create-your-own-jarvis/) 🤖
 - Collaborated with [SwissCoding](https://github.com/swisscoding) for a YouTube video on [10 Python projects for beginners](https://www.youtube.com/watch?v=9-t6JEWQ_IY) 📹
 - Partnered with [GeeksforGeeks](https://www.geeksforgeeks.org/): Use coupon code 'HASAN' for a 10% discount on all courses! 📚
-- Mentor Match [Student Ambassador 2022](https://drive.google.com/file/d/1LdoUKMtIk8FABn5JbgS55AyEWzK9aVUr/view)
+- [Mentor Match](https://www.mentormatch.com/) [Student Ambassador 2022](https://drive.google.com/file/d/1LdoUKMtIk8FABn5JbgS55AyEWzK9aVUr/view)
   
 
 ### 💖 Quote Of the Day
