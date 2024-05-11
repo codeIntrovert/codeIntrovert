@@ -37,7 +37,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Giving is living. If you stop wanting to give, there's nothing more to live for." - Audrey Hepburn
+"The best revenge is to be unlike him who performed the injury." - Marcus Aurelius
 
 <!-- Powered By zenquotes.io -->
 ```
