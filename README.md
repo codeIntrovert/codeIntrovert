@@ -37,7 +37,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"It ain't where you start in life, it's where you end up, and what you did along the way." - Colin Powell
+"Life is about choice. You can choose to be a victim or anything else you like to be." - Celestine Chua
 
 <!-- Powered By zenquotes.io -->
 ```
