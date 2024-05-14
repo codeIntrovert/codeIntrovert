@@ -37,7 +37,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Life is about choice. You can choose to be a victim or anything else you like to be." - Celestine Chua
+"Hope is a waking dream." - Aristotle
 
 <!-- Powered By zenquotes.io -->
 ```
