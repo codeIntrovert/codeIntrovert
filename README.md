@@ -37,7 +37,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Hope is a waking dream." - Aristotle
+"Do good by stealth, and blush to find it fame." - Alexander Pope
 
 <!-- Powered By zenquotes.io -->
 ```
