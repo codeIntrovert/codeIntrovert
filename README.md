@@ -37,7 +37,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Do good by stealth, and blush to find it fame." - Alexander Pope
+"Empty yourself of everything - let the mind become still." - Lao Tzu
 
 <!-- Powered By zenquotes.io -->
 ```
