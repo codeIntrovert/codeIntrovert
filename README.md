@@ -37,7 +37,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Empty yourself of everything - let the mind become still." - Lao Tzu
+"Information changes your mind. Action changes your circumstances." - Jack Butcher
 
 <!-- Powered By zenquotes.io -->
 ```
