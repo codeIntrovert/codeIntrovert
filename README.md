@@ -37,7 +37,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Information changes your mind. Action changes your circumstances." - Jack Butcher
+"If you're afraid - don't do it, - if you're doing it - don't be afraid! " - Genghis Khan
 
 <!-- Powered By zenquotes.io -->
 ```
