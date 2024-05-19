@@ -37,7 +37,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"If you're afraid - don't do it, - if you're doing it - don't be afraid! " - Genghis Khan
+"Thoughts become things. If you see it in your mind, you will hold it in your hand." - Bob Proctor
 
 <!-- Powered By zenquotes.io -->
 ```
