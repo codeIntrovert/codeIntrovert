@@ -37,7 +37,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Thoughts become things. If you see it in your mind, you will hold it in your hand." - Bob Proctor
+"It does not do to dwell on dreams and forget to live, remember that." - Albus Dumbledore
 
 <!-- Powered By zenquotes.io -->
 ```
