@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"It does not do to dwell on dreams and forget to live, remember that." - Albus Dumbledore
+"Everything you look at can become a fairy tale and you can get a story from everything you touch." - Hans Christian Andersen
 
 <!-- Powered By zenquotes.io -->
 ```
