@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Everything you look at can become a fairy tale and you can get a story from everything you touch." - Hans Christian Andersen
+"Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life. " - Eckhart Tolle
 
 <!-- Powered By zenquotes.io -->
 ```
