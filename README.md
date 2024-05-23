@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life. " - Eckhart Tolle
+"It is useless to attempt to reason a man out of a thing he was never reasoned into." - Jonathan Swift
 
 <!-- Powered By zenquotes.io -->
 ```
