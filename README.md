@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"It is useless to attempt to reason a man out of a thing he was never reasoned into." - Jonathan Swift
+"Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain." - Kabir
 
 <!-- Powered By zenquotes.io -->
 ```
