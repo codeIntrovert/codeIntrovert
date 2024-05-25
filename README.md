@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain." - Kabir
+"Judge your success by what you had to give up in order to get it." - Dalai Lama
 
 <!-- Powered By zenquotes.io -->
 ```
