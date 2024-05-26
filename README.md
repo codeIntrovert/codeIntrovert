@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Judge your success by what you had to give up in order to get it." - Dalai Lama
+"We are all different. Don't judge, understand instead." - Roy T. Bennett
 
 <!-- Powered By zenquotes.io -->
 ```
