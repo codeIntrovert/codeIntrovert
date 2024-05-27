@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"We are all different. Don't judge, understand instead." - Roy T. Bennett
+"There is no right or wrong, only a series of possibilities that shift with each thought, feeling, and action that you experience." - Deepak Chopra
 
 <!-- Powered By zenquotes.io -->
 ```
