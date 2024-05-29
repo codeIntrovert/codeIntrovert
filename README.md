@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Nothing endures but change." - Heraclitus
+"Great acts are made up of small deeds." - Lao Tzu
 
 <!-- Powered By zenquotes.io -->
 ```
