@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Great acts are made up of small deeds." - Lao Tzu
+"Catch, then, O catch the transient hour; Improve each moment as it flies! " - St. Jerome
 
 <!-- Powered By zenquotes.io -->
 ```
