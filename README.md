@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Catch, then, O catch the transient hour; Improve each moment as it flies! " - St. Jerome
+"Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice." - Naval Ravikant
 
 <!-- Powered By zenquotes.io -->
 ```
