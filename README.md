@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice." - Naval Ravikant
+"Be not afraid of growing slowly, be afraid only of standing still. " - Chinese Proverb
 
 <!-- Powered By zenquotes.io -->
 ```
