@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Be not afraid of growing slowly, be afraid only of standing still. " - Chinese Proverb
+"You can't have anything worthwhile without difficulties." - Harry S. Truman
 
 <!-- Powered By zenquotes.io -->
 ```
