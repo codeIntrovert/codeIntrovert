@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"You can't have anything worthwhile without difficulties." - Harry S. Truman
+"It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance." - Kamal Ravikant
 
 <!-- Powered By zenquotes.io -->
 ```
