@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance." - Kamal Ravikant
+"The person who never made a mistake never tried anything new." - Albert Einstein
 
 <!-- Powered By zenquotes.io -->
 ```
