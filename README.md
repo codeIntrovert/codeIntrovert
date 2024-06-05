@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"The person who never made a mistake never tried anything new." - Albert Einstein
+"To accomplish big things, I am convinced you must first dream big dreams." - Conrad Hilton
 
 <!-- Powered By zenquotes.io -->
 ```
