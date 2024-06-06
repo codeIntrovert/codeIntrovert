@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"To accomplish big things, I am convinced you must first dream big dreams." - Conrad Hilton
+"The dead receive more flowers than the living because regret is stronger than gratitude." - Anne Frank
 
 <!-- Powered By zenquotes.io -->
 ```
