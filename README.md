@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"The dead receive more flowers than the living because regret is stronger than gratitude." - Anne Frank
+"Never close your lips to those whom you have already opened your heart." - Charles Dickens
 
 <!-- Powered By zenquotes.io -->
 ```
