@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Never close your lips to those whom you have already opened your heart." - Charles Dickens
+"The goal is not to show how great you are to others, but how vulnerable you are to yourself." - Maxime Lagace
 
 <!-- Powered By zenquotes.io -->
 ```
