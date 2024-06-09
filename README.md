@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"The goal is not to show how great you are to others, but how vulnerable you are to yourself." - Maxime Lagace
+"Troubles are often the tools by which God fashions us for better things." - Henry Ward Beecher
 
 <!-- Powered By zenquotes.io -->
 ```
