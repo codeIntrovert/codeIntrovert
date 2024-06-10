@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Troubles are often the tools by which God fashions us for better things." - Henry Ward Beecher
+"There is no significance in life without struggle." - Lolly Daskal
 
 <!-- Powered By zenquotes.io -->
 ```
