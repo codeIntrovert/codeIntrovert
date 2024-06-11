@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"There is no significance in life without struggle." - Lolly Daskal
+"A man sees in the world what he carries in his heart." - Johann Wolfgang von Goethe
 
 <!-- Powered By zenquotes.io -->
 ```
