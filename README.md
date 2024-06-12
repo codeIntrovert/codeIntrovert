@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"A man sees in the world what he carries in his heart." - Johann Wolfgang von Goethe
+"When it is dark enough, you can see the stars." - Ralph Waldo Emerson
 
 <!-- Powered By zenquotes.io -->
 ```
