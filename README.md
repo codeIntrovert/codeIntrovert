@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"When it is dark enough, you can see the stars." - Ralph Waldo Emerson
+"What the caterpillar calls the end of the world, the master calls a butterfly." - Richard Bach
 
 <!-- Powered By zenquotes.io -->
 ```
