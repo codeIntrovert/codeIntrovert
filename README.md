@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"What the caterpillar calls the end of the world, the master calls a butterfly." - Richard Bach
+"Best be yourself, imperial, plain, and true." - Robert Browning
 
 <!-- Powered By zenquotes.io -->
 ```
