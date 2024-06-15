@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Best be yourself, imperial, plain, and true." - Robert Browning
+"What would life be if we had no courage to attempt anything? " - Vincent van Gogh
 
 <!-- Powered By zenquotes.io -->
 ```
