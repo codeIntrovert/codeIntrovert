@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"What would life be if we had no courage to attempt anything? " - Vincent van Gogh
+"You have to give up some of the old so that you can make room for the new." - Yanni
 
 <!-- Powered By zenquotes.io -->
 ```
