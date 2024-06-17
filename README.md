@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"You have to give up some of the old so that you can make room for the new." - Yanni
+"A hut full of laughter is richer than a palace full of sadness." - Zen Proverb
 
 <!-- Powered By zenquotes.io -->
 ```
