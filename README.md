@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"A hut full of laughter is richer than a palace full of sadness." - Zen Proverb
+"A little impatience will spoil great plans." - Chinese Proverb
 
 <!-- Powered By zenquotes.io -->
 ```
