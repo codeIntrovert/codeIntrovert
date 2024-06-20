@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts." - George Bernard Shaw
+"Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it." - Celestine Chua
 
 <!-- Powered By zenquotes.io -->
 ```
