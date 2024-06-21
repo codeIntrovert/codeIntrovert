@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it." - Celestine Chua
+"It is not uncommon for people to spend their whole life waiting to start living." - Eckhart Tolle
 
 <!-- Powered By zenquotes.io -->
 ```
