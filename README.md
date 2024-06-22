@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"It is not uncommon for people to spend their whole life waiting to start living." - Eckhart Tolle
+"Deeds will not be less valiant because they are upraised." - J.R.R. Tolkien
 
 <!-- Powered By zenquotes.io -->
 ```
