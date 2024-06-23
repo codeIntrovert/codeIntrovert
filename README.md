@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Deeds will not be less valiant because they are upraised." - J.R.R. Tolkien
+"Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. " - Samuel Beckett
 
 <!-- Powered By zenquotes.io -->
 ```
