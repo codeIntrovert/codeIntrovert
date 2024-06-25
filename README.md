@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"You can easily judge the character of a man by how he treats those who can do nothing for him." - Johann Wolfgang von Goethe
+"Lost Time is never found again." - Benjamin Franklin
 
 <!-- Powered By zenquotes.io -->
 ```
