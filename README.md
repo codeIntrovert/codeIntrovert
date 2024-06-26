@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Lost Time is never found again." - Benjamin Franklin
+"Turn the pain into power." - Unknown
 
 <!-- Powered By zenquotes.io -->
 ```
