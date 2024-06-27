@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Turn the pain into power." - Unknown
+"Being wrong opens us up to the possibility of change." - Mark Manson
 
 <!-- Powered By zenquotes.io -->
 ```
