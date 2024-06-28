@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Being wrong opens us up to the possibility of change." - Mark Manson
+"Those who can make you believe absurdities can make you commit atrocities. " - Voltaire
 
 <!-- Powered By zenquotes.io -->
 ```
