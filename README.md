@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Those who can make you believe absurdities can make you commit atrocities. " - Voltaire
+"Projecting your mind into a successful situation is the most powerful means to achieve goals.  " - Estee Lauder
 
 <!-- Powered By zenquotes.io -->
 ```
