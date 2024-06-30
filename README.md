@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Projecting your mind into a successful situation is the most powerful means to achieve goals.  " - Estee Lauder
+"You will face many defeats in life, but never let yourself be defeated." - Maya Angelou
 
 <!-- Powered By zenquotes.io -->
 ```
