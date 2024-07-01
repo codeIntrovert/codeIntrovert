@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"You will face many defeats in life, but never let yourself be defeated." - Maya Angelou
+"Heal the past, live the present, dream the future." - Mary Engelbreit
 
 <!-- Powered By zenquotes.io -->
 ```
