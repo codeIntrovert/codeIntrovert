@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Heal the past, live the present, dream the future." - Mary Engelbreit
+"Prefer to be defeated in the presence of the wise than to excel among fools." - Dogen
 
 <!-- Powered By zenquotes.io -->
 ```
