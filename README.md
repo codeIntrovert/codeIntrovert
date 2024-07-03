@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Prefer to be defeated in the presence of the wise than to excel among fools." - Dogen
+"In youth we run into difficulties. In old age difficulties run into us. " - Beverly Sills
 
 <!-- Powered By zenquotes.io -->
 ```
