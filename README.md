@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"In youth we run into difficulties. In old age difficulties run into us. " - Beverly Sills
+"When you believe in a thing, believe in it all the way, implicitly and unquestionable." - Walt Disney
 
 <!-- Powered By zenquotes.io -->
 ```
