@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"When you believe in a thing, believe in it all the way, implicitly and unquestionable." - Walt Disney
+"Stay away from people who makes you feel like you are wasting their time." - Paulo Coelho
 
 <!-- Powered By zenquotes.io -->
 ```
