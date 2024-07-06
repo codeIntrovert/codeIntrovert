@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Stay away from people who makes you feel like you are wasting their time." - Paulo Coelho
+"We are all self-made, but only the successful will admit it." - Earl Nightingale
 
 <!-- Powered By zenquotes.io -->
 ```
