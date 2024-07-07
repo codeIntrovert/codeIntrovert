@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"We are all self-made, but only the successful will admit it." - Earl Nightingale
+"Life is growth. If we stop growing, technically and spiritually, we are as good as dead." - Morihei Ueshiba
 
 <!-- Powered By zenquotes.io -->
 ```
