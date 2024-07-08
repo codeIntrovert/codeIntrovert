@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Life is growth. If we stop growing, technically and spiritually, we are as good as dead." - Morihei Ueshiba
+"At the center of your being you have the answer; you know who you are and you know what you want." - Lao Tzu
 
 <!-- Powered By zenquotes.io -->
 ```
