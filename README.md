@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"At the center of your being you have the answer; you know who you are and you know what you want." - Lao Tzu
+"Supreme excellence consists of breaking the enemy's resistance without fighting." - Sun Tzu
 
 <!-- Powered By zenquotes.io -->
 ```
