@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Supreme excellence consists of breaking the enemy's resistance without fighting." - Sun Tzu
+"Knowledge is learning something everyday. Wisdom is letting go of something everyday." - Unknown
 
 <!-- Powered By zenquotes.io -->
 ```
