@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Knowledge is learning something everyday. Wisdom is letting go of something everyday." - Unknown
+"Success is about creating value." - Candice Carpenter
 
 <!-- Powered By zenquotes.io -->
 ```
