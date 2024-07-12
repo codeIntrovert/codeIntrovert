@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Success is about creating value." - Candice Carpenter
+"It is the power of the mind to be unconquerable." - Seneca
 
 <!-- Powered By zenquotes.io -->
 ```
