@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"It is the power of the mind to be unconquerable." - Seneca
+"Always be a first-rate version of yourself, instead of a second-rate version of someone else." - Judy Garland
 
 <!-- Powered By zenquotes.io -->
 ```
