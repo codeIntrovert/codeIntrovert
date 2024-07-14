@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Always be a first-rate version of yourself, instead of a second-rate version of someone else." - Judy Garland
+"Words used to attract the dull of wit are not to be relied on." - Huang Po
 
 <!-- Powered By zenquotes.io -->
 ```
