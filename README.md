@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Words used to attract the dull of wit are not to be relied on." - Huang Po
+"Life is the art of drawing sufficient conclusions from insufficient premises." - Samuel Butler
 
 <!-- Powered By zenquotes.io -->
 ```
