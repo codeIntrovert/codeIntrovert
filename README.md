@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Life is the art of drawing sufficient conclusions from insufficient premises." - Samuel Butler
+"A warrior does not give up what he loves, he finds the love in what he does." - Dan Millman
 
 <!-- Powered By zenquotes.io -->
 ```
