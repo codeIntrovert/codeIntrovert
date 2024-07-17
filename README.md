@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"A warrior does not give up what he loves, he finds the love in what he does." - Dan Millman
+"Sometimes out of your biggest misery, comes your greatest gain." - Steve Harvey
 
 <!-- Powered By zenquotes.io -->
 ```
