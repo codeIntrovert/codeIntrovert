@@ -40,7 +40,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Sometimes out of your biggest misery, comes your greatest gain." - Steve Harvey
+"Never let the fear of striking out keep you from playing the game." - Babe Ruth
 
 <!-- Powered By zenquotes.io -->
 ```
