@@ -30,7 +30,8 @@ const Hasan = {
 - [Mentor Match](https://www.mentormatch.com/) [Student Ambassador 2022](https://drive.google.com/file/d/1LdoUKMtIk8FABn5JbgS55AyEWzK9aVUr/view) 🏅
 - Built a Twitter/X community with 1500+ members 😎 [Project deprecated see here]
 - Python + Java programming Youtube Channel with 100,000+ views 🚀
-- Working with LIBRECUBE to develop a tool that converts satellite .pluto files into detailed, human-readable PDF manuals with flowcharts 🛰️
+- Worked with LIBRECUBE to develop a tool that converts satellite .pluto files into detailed, human-readable PDF manuals with flowcharts 🛰️
+
   
 
 ### 💖 Quote Of the Day
