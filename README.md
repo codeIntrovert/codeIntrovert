@@ -41,7 +41,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Never let the fear of striking out keep you from playing the game." - Babe Ruth
+"You don't earn loyalty in a day. You earn loyalty day-by-day." - Jeffrey Gitomer
 
 <!-- Powered By zenquotes.io -->
 ```
