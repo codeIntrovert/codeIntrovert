@@ -41,7 +41,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"You don't earn loyalty in a day. You earn loyalty day-by-day." - Jeffrey Gitomer
+"A memory is a beautiful thing, it's almost a desire that you miss." - Gustave Flaubert
 
 <!-- Powered By zenquotes.io -->
 ```
