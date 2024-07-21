@@ -41,7 +41,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"A memory is a beautiful thing, it's almost a desire that you miss." - Gustave Flaubert
+"The only place where success comes before work is in the dictionary." - Vidal Sassoon
 
 <!-- Powered By zenquotes.io -->
 ```
