@@ -41,7 +41,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little." - Criss Jami
+"Correct what you can. Learn from what you can't." - Toni Morrison
 
 <!-- Powered By zenquotes.io -->
 ```
