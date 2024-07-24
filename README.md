@@ -41,7 +41,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Correct what you can. Learn from what you can't." - Toni Morrison
+"Make your stand today. On this spot. On this day." - Ming-Dao Deng
 
 <!-- Powered By zenquotes.io -->
 ```
