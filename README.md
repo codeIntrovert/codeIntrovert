@@ -41,7 +41,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Make your stand today. On this spot. On this day." - Ming-Dao Deng
+"Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand." - Colin Powell
 
 <!-- Powered By zenquotes.io -->
 ```
