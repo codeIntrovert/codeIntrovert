@@ -41,7 +41,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Happiness is a quality of the soul...not a function of one's material circumstances." - Aristotle
+"I have never in my life learned anything from any man who agreed with me." - Dudley Field Malone
 
 <!-- Powered By zenquotes.io -->
 ```
