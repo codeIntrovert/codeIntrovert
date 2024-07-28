@@ -41,7 +41,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"I have never in my life learned anything from any man who agreed with me." - Dudley Field Malone
+"Failure is not fatal, but failure to change might be." - John Wooden
 
 <!-- Powered By zenquotes.io -->
 ```
