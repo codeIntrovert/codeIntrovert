@@ -41,7 +41,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Failure is not fatal, but failure to change might be." - John Wooden
+"Do not believe that you will reach your destination without leaving the shore. " - Chinese Proverb
 
 <!-- Powered By zenquotes.io -->
 ```
