@@ -41,7 +41,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Do not believe that you will reach your destination without leaving the shore. " - Chinese Proverb
+"Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through." - Jonathan Swift
 
 <!-- Powered By zenquotes.io -->
 ```
