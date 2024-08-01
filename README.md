@@ -41,7 +41,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through." - Jonathan Swift
+"Life is like stepping onto a boat which is about to sail out to sea and sink." - Shunryu Suzuki
 
 <!-- Powered By zenquotes.io -->
 ```
