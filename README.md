@@ -31,7 +31,7 @@ const Hasan = {
 - Built a Twitter/X community with 1500+ members 😎 [Project deprecated see here]
 - Python + Java programming Youtube Channel with 100,000+ views 🚀
 - Worked with LIBRECUBE to develop a tool that converts satellite .pluto files into detailed, human-readable PDF manuals with flowcharts 🛰️
-
+- Lead Front-End Android Dev at @DesiScript 
   
 
 ### 💖 Quote Of the Day
