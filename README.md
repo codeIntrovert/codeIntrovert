@@ -41,7 +41,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Life is like stepping onto a boat which is about to sail out to sea and sink." - Shunryu Suzuki
+"Take care of your cents: dollars will take care of themselves." - Thomas Jefferson
 
 <!-- Powered By zenquotes.io -->
 ```
