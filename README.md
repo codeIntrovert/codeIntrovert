@@ -42,7 +42,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Take care of your cents: dollars will take care of themselves." - Thomas Jefferson
+"The hardest arithmetic to master is that which enables us to count our blessings." - Eric Hoffer
 
 <!-- Powered By zenquotes.io -->
 ```
