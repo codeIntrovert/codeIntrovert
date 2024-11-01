@@ -43,7 +43,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"The hardest arithmetic to master is that which enables us to count our blessings." - Eric Hoffer
+"Why change? Everyone has his own style. When you have found it, you should stick to it." - Audrey Hepburn
 
 <!-- Powered By zenquotes.io -->
 ```
