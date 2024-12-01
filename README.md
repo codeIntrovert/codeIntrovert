@@ -43,7 +43,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Why change? Everyone has his own style. When you have found it, you should stick to it." - Audrey Hepburn
+"All know the way; few actually walk it. " - Bodhidharma
 
 <!-- Powered By zenquotes.io -->
 ```
