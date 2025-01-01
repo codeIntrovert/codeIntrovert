@@ -43,7 +43,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"All know the way; few actually walk it. " - Bodhidharma
+"Every man is guilty of all the good he did not do. " - Voltaire
 
 <!-- Powered By zenquotes.io -->
 ```
