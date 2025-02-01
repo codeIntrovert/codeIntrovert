@@ -43,7 +43,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Every man is guilty of all the good he did not do. " - Voltaire
+"A strong man overcomes an obstacle, a wise man goes the whole way." - Zen Proverb
 
 <!-- Powered By zenquotes.io -->
 ```
