@@ -43,7 +43,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"A strong man overcomes an obstacle, a wise man goes the whole way." - Zen Proverb
+"A clear conscience is the sure sign of a bad memory." - Mark Twain
 
 <!-- Powered By zenquotes.io -->
 ```
