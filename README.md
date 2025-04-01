@@ -43,7 +43,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"A clear conscience is the sure sign of a bad memory." - Mark Twain
+"We're kept from our goal not by obstacles, but by a clear path to a lesser goal." - Bhagavad Gita
 
 <!-- Powered By zenquotes.io -->
 ```
