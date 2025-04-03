@@ -43,7 +43,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"We're kept from our goal not by obstacles, but by a clear path to a lesser goal." - Bhagavad Gita
+"Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane." - Criss Jami
 
 <!-- Powered By zenquotes.io -->
 ```
