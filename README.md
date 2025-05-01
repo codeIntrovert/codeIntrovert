@@ -43,7 +43,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane." - Criss Jami
+"Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it." - Celestine Chua
 
 <!-- Powered By zenquotes.io -->
 ```
