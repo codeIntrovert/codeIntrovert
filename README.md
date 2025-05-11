@@ -18,7 +18,7 @@ const Hasan = {
   pronouns: "he" | "him",
   code: [Javascript, Python, Java, Ruby],
   tools: [React Native, React, NodeJs, ExpressJs, NextJS  Flask, TailwindCSS, RubyJekyll],
-  pipeLine: ["MERN", "Django", "OpenSource Experience"],
+  pipeLine: ["MERN", "SpringBoot", "Transformers"],
   hobbies:["Designing UI Mockups", "Cycling", "Watching Cat Videos 🥰"]
 };
 ```
