@@ -43,7 +43,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it." - Celestine Chua
+"Talk sense to a fool and he calls you foolish." - Euripides
 
 <!-- Powered By zenquotes.io -->
 ```
