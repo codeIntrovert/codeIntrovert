@@ -43,7 +43,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Talk sense to a fool and he calls you foolish." - Euripides
+"Anything becomes interesting if you look at it long enough.." - Gustave Flaubert
 
 <!-- Powered By zenquotes.io -->
 ```
