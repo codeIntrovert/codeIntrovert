@@ -43,7 +43,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Anything becomes interesting if you look at it long enough.." - Gustave Flaubert
+"Don't bother people for help without first trying to solve the problem yourself." - Colin Powell
 
 <!-- Powered By zenquotes.io -->
 ```
