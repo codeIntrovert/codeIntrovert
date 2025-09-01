@@ -43,7 +43,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Don't bother people for help without first trying to solve the problem yourself." - Colin Powell
+"Perplexity is the beginning of knowledge." - Kahlil Gibran
 
 <!-- Powered By zenquotes.io -->
 ```
