@@ -32,8 +32,8 @@ const Hasan = {
 - Python + Java programming Youtube Channel with 100,000+ views 🚀
 - Worked with [LIBRECUBE](https://librecube.org/) to develop a tool that converts satellite .pluto files into detailed, human-readable PDF manuals with flowcharts 🛰️
 - Web & Android Design Intern 🌌 - [DesiScript.com](https://desiscript.com/)
-- [Hack The Space 2.0](https://hackthespace.co/) Hacker - 2024 👽
 - [GDG On Campus | SSTC](https://gdg.community.dev/gdg-on-campus-shri-shankaracharya-technical-campus-bhilai-india/) Technical Core Team Member - 2024
+- ORGANIZER & LEAD '25 @ [Google Developer Groups SSTC](https://gdg.community.dev/gdg-on-campus-shri-shankaracharya-technical-campus-bhilai-india/)
   
 
 ### 💖 Quote Of the Day
