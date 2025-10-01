@@ -44,7 +44,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Perplexity is the beginning of knowledge." - Kahlil Gibran
+"Knowledge is learning something everyday. Wisdom is letting go of something everyday." - Unknown
 
 <!-- Powered By zenquotes.io -->
 ```
