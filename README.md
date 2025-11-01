@@ -44,7 +44,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Knowledge is learning something everyday. Wisdom is letting go of something everyday." - Unknown
+"Success is built sequentially. It's one thing at a time." - Gary Keller
 
 <!-- Powered By zenquotes.io -->
 ```
