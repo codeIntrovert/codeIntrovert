@@ -44,7 +44,7 @@ Updates Dynamically Every Day :)
 
 <!-- Quote Of the day -->
 
-"Success is built sequentially. It's one thing at a time." - Gary Keller
+"Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain." - Kabir
 
 <!-- Powered By zenquotes.io -->
 ```
