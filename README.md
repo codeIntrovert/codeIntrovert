@@ -24,8 +24,8 @@ const Hasan = {
 ```
 
 ### 🎓 Experiences & Collaborations 
-- Hosted Python AI Basics workshop with [Codingal](https://www.codingal.com/coding-for-kids/masterclasses/create-your-own-jarvis/) 🤖
-- Collaborated with [SwissCoding](https://github.com/swisscoding) for a YouTube video on [10 Python projects for beginners](https://www.youtube.com/watch?v=9-t6JEWQ_IY) 📹
+- Hosted Python AI Basics workshop with [Codingal](https://www.codingal.com/coding-for-kids/masterclasses/create-your-own-jarvis/) 🤖 2020
+- Collaborated with [SwissCoding](https://github.com/swisscoding) for a YouTube video on [10 Python projects for beginners](https://www.youtube.com/watch?v=9-t6JEWQ_IY) 📹 2021
 - Partnered with [GeeksforGeeks](https://www.geeksforgeeks.org/): Use coupon code 'HASAN' for a 10% discount on all courses! 📚
 - [Mentor Match](https://www.mentormatch.com/) [Student Ambassador 2022](https://drive.google.com/file/d/1LdoUKMtIk8FABn5JbgS55AyEWzK9aVUr/view) 🏅
 - Built a Twitter/X community with 1500+ members 😎 [Project deprecated see here]
@@ -33,6 +33,7 @@ const Hasan = {
 - Worked with [LIBRECUBE](https://librecube.org/) to develop a tool that converts satellite .pluto files into detailed, human-readable PDF manuals with flowcharts 🛰️
 - Web & Android Design Intern 🌌 - [DesiScript.com](https://desiscript.com/)
 - ORGANIZER & LEAD '25 @ [Google Developer Groups SSTC](https://gdg.community.dev/gdg-on-campus-shri-shankaracharya-technical-campus-bhilai-india/)
+- Organized Devfest Raipur 2025
   
 
 ### 💖 Quote Of the Day
