@@ -43,7 +43,7 @@ Updates Dynamically Every Month :)
 
 <!-- Quote Of the day -->
 
-"When you are tempted to give up, your breakthrough is probably just around the corner." - Joyce Meyer
+"The way we feel is the direct result of what we think." - Peter A. Cohen
 
 <!-- Powered By zenquotes.io -->
 ```
