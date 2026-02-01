@@ -43,7 +43,7 @@ Updates Dynamically Every Month :)
 
 <!-- Quote Of the day -->
 
-"The way we feel is the direct result of what we think." - Peter A. Cohen
+"In the beginner's mind there are many possibilities, but in the expert's mind there are few." - Shunryu Suzuki
 
 <!-- Powered By zenquotes.io -->
 ```
