@@ -43,7 +43,7 @@ Updates Dynamically Every Month :)
 
 <!-- Quote Of the day -->
 
-"In the beginner's mind there are many possibilities, but in the expert's mind there are few." - Shunryu Suzuki
+"Courage is the price that life exacts for granting peace." - Amelia Earhart
 
 <!-- Powered By zenquotes.io -->
 ```
