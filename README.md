@@ -43,7 +43,7 @@ Updates Dynamically Every Month :)
 
 <!-- Quote Of the day -->
 
-"Courage is the price that life exacts for granting peace." - Amelia Earhart
+"If you are unable to find the truth right where you are, where else do you expect to find it?" - Dogen
 
 <!-- Powered By zenquotes.io -->
 ```
