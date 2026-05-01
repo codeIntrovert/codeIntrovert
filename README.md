@@ -43,7 +43,7 @@ Updates Dynamically Every Month :)
 
 <!-- Quote Of the day -->
 
-"If you are unable to find the truth right where you are, where else do you expect to find it?" - Dogen
+"Change is inevitable but personal growth is a choice." - Bob Proctor
 
 <!-- Powered By zenquotes.io -->
 ```
