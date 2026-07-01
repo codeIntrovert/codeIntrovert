@@ -43,7 +43,7 @@ Updates Dynamically Every Month :)
 
 <!-- Quote Of the day -->
 
-"Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before." - Alexander Graham Bell
+"The mind is the limit." - Arnold Schwarzenegger
 
 <!-- Powered By zenquotes.io -->
 ```
