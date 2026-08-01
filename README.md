@@ -43,7 +43,7 @@ Updates Dynamically Every Month :)
 
 <!-- Quote Of the day -->
 
-"The mind is the limit." - Arnold Schwarzenegger
+"It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated." - Albus Dumbledore
 
 <!-- Powered By zenquotes.io -->
 ```
