@@ -16,10 +16,8 @@
 ```javascript
 const Hasan = {
   pronouns: "he" | "him",
-  code: [Javascript, Python, Java, Ruby],
-  tools: [React Native, React, NodeJs, ExpressJs, NextJS  Flask, TailwindCSS, RubyJekyll],
-  pipeLine: ["MERN", "SpringBoot", "Transformers"],
-  hobbies:["Designing UI Mockups", "Cycling", "Watching Cat Videos 🥰"]
+  tools: ["TypeScript", "React", "Next.js", "Docker", "Google Cloud"],
+  hobbies:["Graphic Design", "Cycling", "Cat Videos 🥰"]
 };
 ```
 
@@ -28,12 +26,13 @@ const Hasan = {
 - Collaborated with [SwissCoding](https://github.com/swisscoding) for a YouTube video on [10 Python projects for beginners](https://www.youtube.com/watch?v=9-t6JEWQ_IY) 📹 2021
 - Partnered with [GeeksforGeeks](https://www.geeksforgeeks.org/) 📚
 - [Mentor Match](https://www.mentormatch.com/) [Student Ambassador 2022](https://drive.google.com/file/d/1LdoUKMtIk8FABn5JbgS55AyEWzK9aVUr/view) 🏅
-- Built a Twitter/X community with 1500+ members 😎 [Project deprecated see here]
+- Built a Twitter/X community with 1500+ members 😎
 - Python + Java programming Youtube Channel with 120,000+ views 🚀
 - Worked with [LIBRECUBE](https://librecube.org/) to develop a tool that converts satellite .pluto files into detailed, human-readable PDF manuals with flowcharts 🛰️
 - Web & Android Design Intern 🌌 - [DesiScript.com](https://desiscript.com/)
 - ORGANIZER & LEAD '25 @ [Google Developer Groups SSTC](https://gdg.community.dev/gdg-on-campus-shri-shankaracharya-technical-campus-bhilai-india/)
-- Organized Devfest Raipur 2025. Writing code to manage enterprise transactions 
+- Operation Head @ [Google Developer Groups Raipur]()
+- SDE @HappyChases - Writing code to manage enterprises.  
   
 
 ### 💖 Quote Of the Day
