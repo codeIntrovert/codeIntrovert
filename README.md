@@ -42,7 +42,7 @@ Updates Dynamically Every Month :)
 
 <!-- Quote Of the day -->
 
-"It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated." - Albus Dumbledore
+"Only in the agony of parting do we look into the depths of love." - George Eliot
 
 <!-- Powered By zenquotes.io -->
 ```
