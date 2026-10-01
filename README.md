@@ -42,7 +42,7 @@ Updates Dynamically Every Month :)
 
 <!-- Quote Of the day -->
 
-"Only in the agony of parting do we look into the depths of love." - George Eliot
+"If there is a book that you want to read, but it hasn't been written yet, then you must write it." - Toni Morrison
 
 <!-- Powered By zenquotes.io -->
 ```
