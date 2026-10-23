@@ -32,7 +32,8 @@ const Hasan = {
 - Web & Android Design Intern 🌌 - [DesiScript.com](https://desiscript.com/)
 - ORGANIZER & LEAD '25 @ [Google Developer Groups SSTC](https://gdg.community.dev/gdg-on-campus-shri-shankaracharya-technical-campus-bhilai-india/)
 - Operation Head @ [Google Developer Groups Raipur]()
-- SDE @HappyChases - Writing code to manage enterprises.  
+- SDE @HappyChases - Writing code to manage enterprises.
+- SWE @Moonshot YC S26 - Making 'Her' A friend, A Guide, A Personal AI AGENT
   
 
 ### 💖 Quote Of the Day
