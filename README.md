@@ -43,7 +43,7 @@ Updates Dynamically Every Month :)
 
 <!-- Quote Of the day -->
 
-"If there is a book that you want to read, but it hasn't been written yet, then you must write it." - Toni Morrison
+"Fear, uncertainty, and discomfort are your compasses toward growth." - Celestine Chua
 
 <!-- Powered By zenquotes.io -->
 ```
