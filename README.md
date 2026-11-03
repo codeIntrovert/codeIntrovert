@@ -18,18 +18,18 @@
 const Hasan = {
   pronouns: "he" | "him",
   tools: ["TypeScript", "React", "Next.js", "Docker", "Google Cloud"],
-  hobbies:["Graphic Design", "Cycling", "Cat Videos 🥰"]
+  hobbies:["Graphic Design", "Cycling", "Cat Videos 🥰", "Music"]
 };
 ```
 
 ### 🎓 Experiences & Collaborations 
 - Hosted Python AI Basics workshop with [Codingal YCW21](https://www.codingal.com/coding-for-kids/masterclasses/create-your-own-jarvis/) 🤖 2020
-- Collaborated with [SwissCoding](https://github.com/swisscoding) for a YouTube video on [10 Python projects for beginners](https://www.youtube.com/watch?v=9-t6JEWQ_IY) 📹 2021
+- Collaborated with [SwissCoding](https://github.com/swisscoding) [10 Python projects for beginners](https://www.youtube.com/watch?v=9-t6JEWQ_IY) 📹 2021
 - Partnered with [GeeksforGeeks](https://www.geeksforgeeks.org/) 📚
 - [Mentor Match](https://www.mentormatch.com/) [Student Ambassador 2022](https://drive.google.com/file/d/1LdoUKMtIk8FABn5JbgS55AyEWzK9aVUr/view) 🏅
 - Built a Twitter/X community with 1500+ members 😎
 - Python + Java programming Youtube Channel with 120,000+ views 🚀
-- Worked with [LIBRECUBE](https://librecube.org/) to develop a tool that converts satellite .pluto files into detailed, human-readable PDF manuals with flowcharts 🛰️
+- OSS Contributor @ [LIBRECUBE Space Germany](https://librecube.org/) 🛰️
 - Web & Android Design Intern 🌌 - [DesiScript.com](https://desiscript.com/)
 - ORGANIZER & LEAD '25 @ [Google Developer Groups SSTC](https://gdg.community.dev/gdg-on-campus-shri-shankaracharya-technical-campus-bhilai-india/)
 - Operation Head @ [Google Developer Groups Raipur]()
