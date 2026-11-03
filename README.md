@@ -6,7 +6,8 @@
 <p>A GenZ coding Enthusiast<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCKkj-sW42Jj2eS6UlvbEgsA?label=IntrovertCoder)](https://www.youtube.com/introvertCoder/)
+[![Website](https://img.shields.io/badge/-heyhasan.me-F9E79F?style=flat-square&logo=googlechrome&logoColor=333333)](https://www.heyhasan.me)
+[![YouTube](https://img.shields.io/badge/-introvertCoder-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/introvertcoder)
 [![Instagram: introvertCoder](https://img.shields.io/badge/-introvertCoder-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/introvertCoder/)](https://www.instagram.com/introvertCoder/)
 [![Linkedin: introvertCoder](https://img.shields.io/badge/-introvertcoder-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/introvertcoder/)](https://www.linkedin.com/in/introvertcoder/)
 <img id="preview" src="https://komarev.com/ghpvc/?username=codeIntrovert&color=brightgreen">
